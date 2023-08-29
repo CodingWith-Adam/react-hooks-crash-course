@@ -4,7 +4,7 @@
 
 ### YouTube Tutorial:
 
-(coming soon)
+https://youtu.be/UWrSMWI8wbQ
 
 Learn all these react hooks in one video: useState, useEffect, useContext, useMemo, useCallback, useRef, useReducer, useImperativeHandle. We also briefly cover forwardRef and memo.
 
